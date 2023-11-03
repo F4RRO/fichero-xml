@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- Estoy documentando las candidaturas para Eurovisión. Cada una tiene su propio conjunto de detalles. -->
+
+<eurovision>
+  
+  <!-- Empiezo con Alemania. -->
+  <candidatura>
+    <pais>Alemania</pais> <!-- País Alemania. -->
+    <titulo>
+      <tituloOriginal>Rockstars</tituloOriginal> <!-- La canción se llama 'Rockstars'. -->
+      <tituloCastellano>Estrellas del rock</tituloCastellano> <!-- En español es 'Estrellas del rock'. -->
+    </titulo>
+    <artista>Malik Harris</artista> <!-- Malik Harris es el artista. -->
+    <idiomas>
+      <idioma>Inglés</idioma> <!-- Canta en inglés. -->
+    </idiomas>
+    <video>D3FN2umFaM8</video> <!-- Aquí está el video. -->
+  </candidatura>
+  
+  <!-- Ahora va España. -->
+  <candidatura>
+    <pais>España</pais> <!-- Represento a España. -->
+    <titulo>
+      <tituloOriginal>SloMo</tituloOriginal> <!-- La canción se titula 'SloMo'. -->
+      <tituloCastellano>Cámara lenta</tituloCastellano> <!-- Que significa 'Cámara lenta'. -->
+    </titulo>
+    <artista>Chanel</artista> <!-- Chanel es quien la interpreta. -->
+    <idiomas>
+      <idioma>Español</idioma> <!-- Parte en español... -->
+      <idioma>Inglés</idioma> <!-- y parte en inglés. -->
+    </idiomas>
+    <video>TO2yGXVQCfo</video> <!-- Este es su video. -->
+  </candidatura>
+  
+  <!-- Sigo con Finlandia. -->
+  <candidatura>
+    <pais>Finlandia</pais> <!-- Aquí está Finlandia. -->
+    <titulo>
+      <tituloOriginal>Jezebel</tituloOriginal> <!-- 'Jezebel' es el título. -->
+      <tituloCastellano>Jezebel</tituloCastellano> <!-- Se queda igual en español. -->
+    </titulo>
+    <artista>The Rasmus</artista> <!-- The Rasmus son los artistas. -->
+    <idiomas>
+      <idioma>Inglés</idioma> <!-- También en inglés. -->
+    </idiomas>
+    <video>XtMfCf3vFbc</video> <!-- Aquí el video correspondiente. -->
+  </candidatura>
+  
+  <!-- Italia viene después. -->
+  <candidatura>
+    <pais>Italia</pais> <!-- Tengo a Italia aquí. -->
+    <titulo>
+      <tituloOriginal>Brividi</tituloOriginal> <!-- Se llama 'Brividi'. -->
+      <tituloCastellano>Escalofríos</tituloCastellano> <!-- O 'Escalofríos' en español. -->
+    </titulo>
+    <artista>Mahmood & Blanco</artista> <!-- Mahmood & Blanco lo cantan. -->
+    <idiomas>
+      <idioma>Italiano</idioma> <!-- En italiano, por supuesto. -->
+    </idiomas>
+    <video>4MgMhzfUmiA</video> <!-- Este es su video. -->
+  </candidatura>
+  
+  <!-- Finalizo con Ucrania. -->
+  <candidatura>
+    <pais>Ucrania</pais> <!-- Y finalizo con Ucrania. -->
+    <titulo>
+      <tituloOriginal>Stefania</tituloOriginal> <!-- La canción es 'Stefania'. -->
+      <tituloCastellano>Estefanía</tituloCastellano> <!-- 'Estefanía' en español. -->
+    </titulo>
+    <artista>Kalush Orchstra</artista> <!-- Interpretada por Kalush Orchestra. -->
+    <idiomas>
+      <idioma>Ucraniano</idioma> <!-- En ucraniano. -->
+    </idiomas>
+    <video>UiEGVYOruLk</video> <!-- Y aquí está el video. -->
+  </candidatura>
+  
+</eurovision>
+<!-- FIN. -->
